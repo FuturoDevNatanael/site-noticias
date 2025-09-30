@@ -59,8 +59,7 @@ Se você planeja continuar evoluindo o projeto, aqui estão algumas ideias:
 Fique à vontade para me contatar e dar um feedback sobre o projeto\!
 
   * **Seu Nome** - [Seu Perfil do LinkedIn ou outra Rede Social]
-  * **Link do Projeto:** [[https://github.com/](https://github.com/)[SEU\_USUARIO\_GITHUB]/[NOME\_DO\_REPOSITORIO]]
+  * **Link do Projeto:** [[https://https://futurodevnatanael.github.io/site-noticias/)[FuturoDev\Natanael_\_GITHUB]/[NOME\_DO\_Site de notícias]]
 
 -----
 
-**Dica:** Substitua os colchetes e compartilhe o link do seu GitHub com seus amigos\!
