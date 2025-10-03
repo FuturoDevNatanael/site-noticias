@@ -58,7 +58,7 @@ Se você planeja continuar evoluindo o projeto, aqui estão algumas ideias:
 
 Fique à vontade para me contatar e dar um feedback sobre o projeto\!
 
-  * **Seu Nome** - [www.linkedin.com/in/natansilvadev]
+  * **Seu Nome** - Natanael Gomes leitão da silva [www.linkedin.com/in/natansilvadev]
   * **Link do Projeto:** https://https://futurodevnatanael.github.io/site-noticias/)[FuturoDev\Natanael_\_GITHUB]/NOME\_DO\_Site Portal Notícias
 
 -----
